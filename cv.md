@@ -20,3 +20,13 @@ Purpose: will learn FrontEnd and BackEnd; learn Python;
 >> HTML5/CSS3
 >> Python
 >> Java
+* Database
+>> MySQL
+>> MongoDB
+* Languages
+>> Polski B1
+>> English A1
+---
+Education
+GrSU n.Yanka Kupala
+Akademia Finansów i Biznesu Vistula
